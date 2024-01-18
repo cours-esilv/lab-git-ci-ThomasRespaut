@@ -1,5 +1,4 @@
 Enter your details below:
 
-* first_name: Thomas
-* last_name: Respaut
-
+* first_name:Thomas
+* last_name:Respaut
